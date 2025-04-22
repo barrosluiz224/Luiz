@@ -33,8 +33,8 @@ function App() {
 
                     <div className='loading-pag'>
                         <div className="loader">
-                            <span>=(LuizBarros)=></span>
-                            <span>=(LuizBarros)=></span>
+                            <span>=(LuizBarros)=</span>
+                            <span>=(LuizBarros)=</span>
                         </div>
                     </div>
 
